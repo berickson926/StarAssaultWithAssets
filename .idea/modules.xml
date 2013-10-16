@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/star-assault/star-assault.iml" filepath="$PROJECT_DIR$/star-assault/star-assault.iml" />
+      <module fileurl="file://$PROJECT_DIR$/star-assault-android/star-assault-android.iml" filepath="$PROJECT_DIR$/star-assault-android/star-assault-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/star-assault-desktop/star-assault-desktop.iml" filepath="$PROJECT_DIR$/star-assault-desktop/star-assault-desktop.iml" />
+    </modules>
+  </component>
+</project>
+
